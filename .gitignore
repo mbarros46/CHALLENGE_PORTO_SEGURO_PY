@@ -1,0 +1,20 @@
+# Ignore arquivos de ambiente virtual
+venv/
+__pycache__/
+
+# Ignore arquivos de banco de dados
+*.db
+
+# Ignore arquivos de configuração do editor
+.vscode/
+.idea/
+
+# Ignore arquivos de log
+*.log
+
+# Ignore arquivos temporários
+*.tmp
+*.temp
+
+# Ignore arquivos de exportação
+usuarios.json
